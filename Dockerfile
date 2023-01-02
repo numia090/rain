@@ -2,7 +2,7 @@
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/Yuang4205/railray/raw/main/rwq.zip | busybox unzip - && \
+    wget -qO- https://raw.githubusercontent.com/johnyterry/xry-linux64/main/Xry-linux-64.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
