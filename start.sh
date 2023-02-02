@@ -1,7 +1,7 @@
-﻿#!/bin/sh
+#!/bin/sh
 
 # configs
-AUUID=9d416e51-fc94-48bd-b27b-476a31d3c52d
+AUUID=405a5f91-b946-4bbc-914a-cc61632a6012
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/numia090/rain/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/numia090/rain/master/etc/wry.json
